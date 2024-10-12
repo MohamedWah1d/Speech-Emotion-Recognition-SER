@@ -42,8 +42,3 @@ Speech is one of the most natural ways humans express emotions. The goal of this
 - `scikit-learn`: For data splitting, preprocessing, and evaluation
 - `matplotlib` and `seaborn`: For visualization
 - `TensorFlow` and `PyTorch`: For building and training the deep learning models
-
-## How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/speech-emotion-recognition.git
