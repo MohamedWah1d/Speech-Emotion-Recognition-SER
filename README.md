@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER)
 
-This repository contains a project on **Speech Emotion Recognition (SER)** using machine learning techniques. The objective of this project is to classify emotions embedded in speech signals. We use the **Crema dataset** for training and testing the model, and employ **PyTorch** and **TensorFlow** for model development.
+This repository contains a project on **Speech Emotion Recognition (SER)** using machine learning techniques. The objective of this project is to classify emotions embedded in speech signals. We use the **Crema dataset** for training and testing the model, and employ **PyTorch** for model development.
 
 ## Project Overview
 
